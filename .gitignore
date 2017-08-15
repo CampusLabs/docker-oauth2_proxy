@@ -1,0 +1,6 @@
+# Junk files
+*.swp
+*.DS_Store
+[Tt]humbs.db
+/.idea
+*.iml
